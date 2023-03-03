@@ -37,5 +37,4 @@ const router = createRouter({
   linkActiveClass: 'active',
   routes
 })
-
 export default router
